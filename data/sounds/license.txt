@@ -1,0 +1,12 @@
+##############################################################################
+# This license file contains license- and origin-information for audio files #
+# included with Eduras?.                                                     #
+#                                                                            #
+# Any files not specified here are belong to Eduras-Development team.        #
+#                                                                            #
+# Example for an entry:                                                      #
+# - sound/click.ogg                                                          #
+#     from xyz.org (CC0).                                                    #
+##############################################################################
+- sound/error.ogg
+      original named misc_menu_3.wav from Lokif on http://opengameart.org/content/gui-sound-effects (CC0)
